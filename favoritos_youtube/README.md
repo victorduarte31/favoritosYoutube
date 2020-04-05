@@ -1,6 +1,6 @@
 # favoritosyoutube
 
-Favoritos do YouTube
+A new Flutter application.
 
 ## Getting Started
 
